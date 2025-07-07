@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Report Dashboard 📊
+# 🍕 Pizza Sales Two In One Report Dashboard 📊
 
 **📅 Reporting Period:**
 January 01, 2024 – December 30, 2024
