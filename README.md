@@ -19,6 +19,7 @@ Average Pizzas per Order: 2.32 🧾
 The numbers show strong sales momentum, with thousands of pizzas making their way to happy customers!
 
 *📅 When Do We Sell the Most?*
+
 🔹 Busiest Days & Times:
 Orders are highest on weekends, with Friday & Saturday evenings leading the rush. People love to treat themselves to a cheesy delight at the end of the week! 😋
 🔹 Monthly Trends:
@@ -42,25 +43,41 @@ Orders: Again, The Brie Carre Pizza sees the fewest orders.
 Sometimes even fancy cheeses can’t compete with classic crowd-pleasers! 😉
 
 **🥇 Top 5 Champions**
-By Revenue:
+
+*By Revenue:*
+
 1️⃣ The Thai Chicken — ₹83,434
+
 2️⃣ The Californian — ₹82,476
+
 3️⃣ The Hawaiian — ₹41,410
+
 4️⃣ The Pepperoni — ₹38,146
+
 5️⃣ The Spicy Italian — ₹34,811
 
-By Quantity:
+*By Quantity:*
+
 1️⃣ The Classic Deluxe — 2,453
+
 2️⃣ The Barbecue — 2,450
+
 3️⃣ The Hawaiian — 2,422
+
 4️⃣ The Pepperoni — 2,404
+
 5️⃣ The Thai Chicken — 2,371
 
-By Orders:
+*By Orders:*
+
 1️⃣ The Classic Deluxe — 2,239
+
 2️⃣ The Hawaiian — 2,200
+
 3️⃣ The Pepperoni — 2,278
+
 4️⃣ The Californian — 2,278
+
 5️⃣ The Thai Chicken — 2,225
 
 **🥄 Bottom 5 Strugglers**
