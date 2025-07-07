@@ -1,8 +1,9 @@
-🍕 Pizza Sales Report Dashboard 📊
-📅 Reporting Period:
+# 🍕 Pizza Sales Report Dashboard 📊
+
+** 📅 Reporting Period: ** 
 January 01, 2024 – December 30, 2024
 
-📖 Story Behind the Dashboard
+* 📖 Story Behind the Dashboard *
 Welcome to the Pizza Sales Report Dashboard, a comprehensive snapshot of how a pizza business performed throughout the year 2024! 📈✨
 
 This dashboard tells the story of customer cravings, sales patterns, and business performance — all sliced and served with a data twist! Let’s dive into the insights it reveals:
